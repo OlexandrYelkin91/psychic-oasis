@@ -1,0 +1,1100 @@
+Uri: https://effdoors.com/
+File Name: C:\Downloaded Web Sites\effdoors.com\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\effdoors.com\css\bootstrap.min-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/font-awesome/font-awesome.min.css?v=4.7.0
+File Name: C:\Downloaded Web Sites\effdoors.com\css\font-awesome\font-awesome.min-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/site.css?v=20210904021401
+File Name: C:\Downloaded Web Sites\effdoors.com\css\site-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/common.css?ts=1633893999
+File Name: C:\Downloaded Web Sites\effdoors.com\css\common-3.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/1.css?ts=1633893999
+File Name: C:\Downloaded Web Sites\effdoors.com\css\1-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/js/photoswipe/photoswipe.css
+File Name: C:\Downloaded Web Sites\effdoors.com\js\photoswipe\photoswipe.css
+Content Type: text/css
+
+Uri: https://effdoors.com/js/photoswipe/default-skin/default-skin.css
+File Name: C:\Downloaded Web Sites\effdoors.com\js\photoswipe\default-skin\default-skin.css
+Content Type: text/css
+
+Uri: https://effdoors.com/gallery/favicon.ico
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery\favicon-1.ico
+Content Type: image/x-icon
+
+Uri: https://effdoors.com/css/flag-icon-css/css/flag-icon.min.css
+File Name: C:\Downloaded Web Sites\effdoors.com\css\flag-icon-css\css\flag-icon.min-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/contacts/
+File Name: C:\Downloaded Web Sites\effdoors.com\contacts\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/ПРОДУКЦІЯ/
+File Name: C:\Downloaded Web Sites\effdoors.com\ПРОДУКЦІЯ\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/production/doors/
+File Name: C:\Downloaded Web Sites\effdoors.com\production\doors\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/ПІД-ФАРБУВАННЯ/
+File Name: C:\Downloaded Web Sites\effdoors.com\ПІД-ФАРБУВАННЯ\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/ПІД-ШТУКАТУРКУ/
+File Name: C:\Downloaded Web Sites\effdoors.com\ПІД-ШТУКАТУРКУ\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/ШПОНОВАНІ/
+File Name: C:\Downloaded Web Sites\effdoors.com\ШПОНОВАНІ\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/ІЗ-ДЗЕРКАЛОМ/
+File Name: C:\Downloaded Web Sites\effdoors.com\ІЗ-ДЗЕРКАЛОМ\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/ЗІ-СКЛОМ/
+File Name: C:\Downloaded Web Sites\effdoors.com\ЗІ-СКЛОМ\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/З-HPL-ПАНЕЛЯМИ/
+File Name: C:\Downloaded Web Sites\effdoors.com\З-HPL-ПАНЕЛЯМИ\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/ІЗ-КЕРАМОГРАНІТУ/
+File Name: C:\Downloaded Web Sites\effdoors.com\ІЗ-КЕРАМОГРАНІТУ\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/ПІД-СТЕЛЮ/
+File Name: C:\Downloaded Web Sites\effdoors.com\ПІД-СТЕЛЮ\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/З-AL-ТОРЦЕМ/
+File Name: C:\Downloaded Web Sites\effdoors.com\З-AL-ТОРЦЕМ\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/ДИЗАЙНЕРСЬКІ-ДВЕРІ/
+File Name: C:\Downloaded Web Sites\effdoors.com\ДИЗАЙНЕРСЬКІ-ДВЕРІ\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/production/partitions/
+File Name: C:\Downloaded Web Sites\effdoors.com\production\partitions\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/РУЧКИ/
+File Name: C:\Downloaded Web Sites\effdoors.com\РУЧКИ\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/МАГНІТНІ-ЗАМКИ/
+File Name: C:\Downloaded Web Sites\effdoors.com\МАГНІТНІ-ЗАМКИ\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/ПРИХОВАНІ-ПЕТЛІ/
+File Name: C:\Downloaded Web Sites\effdoors.com\ПРИХОВАНІ-ПЕТЛІ\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/ЦИЛІНДРИ/
+File Name: C:\Downloaded Web Sites\effdoors.com\ЦИЛІНДРИ\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/РОЗСУВНІ-СИСТЕМИ/
+File Name: C:\Downloaded Web Sites\effdoors.com\РОЗСУВНІ-СИСТЕМИ\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/СМАРТ-ПОРОГИ/
+File Name: C:\Downloaded Web Sites\effdoors.com\СМАРТ-ПОРОГИ\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/МАГНІТНІ-ОБМЕЖУВАЧІ-ХОДУ/
+File Name: C:\Downloaded Web Sites\effdoors.com\МАГНІТНІ-ОБМЕЖУВАЧІ-ХОДУ\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/ПРИХОВАНІ-ДОТЯГУВАЧІ/
+File Name: C:\Downloaded Web Sites\effdoors.com\ПРИХОВАНІ-ДОТЯГУВАЧІ\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/service/
+File Name: C:\Downloaded Web Sites\effdoors.com\service\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/about/
+File Name: C:\Downloaded Web Sites\effdoors.com\about\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/АКЦІЇ/
+File Name: C:\Downloaded Web Sites\effdoors.com\АКЦІЇ\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/СТАТТІ/
+File Name: C:\Downloaded Web Sites\effdoors.com\СТАТТІ\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/ХІТ-ПРОДАЖ/
+File Name: C:\Downloaded Web Sites\effdoors.com\ХІТ-ПРОДАЖ\index-1.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/js/jquery-3.5.1.min.js
+File Name: C:\Downloaded Web Sites\effdoors.com\js\jquery-3.5.1.min-1.js
+Content Type: application/javascript
+
+Uri: https://effdoors.com/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\effdoors.com\js\bootstrap.min-1.js
+Content Type: application/javascript
+
+Uri: https://effdoors.com/js/main.js?v=20210904021402
+File Name: C:\Downloaded Web Sites\effdoors.com\js\main-1.js
+Content Type: application/javascript
+
+Uri: https://effdoors.com/js/photoswipe/photoswipe.min.js
+File Name: C:\Downloaded Web Sites\effdoors.com\js\photoswipe\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: https://effdoors.com/js/photoswipe/photoswipe-ui-default.min.js
+File Name: C:\Downloaded Web Sites\effdoors.com\js\photoswipe\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: https://effdoors.com/gallery_gen/b620910d9423fc560d6d1e353ebd786c_451x221.47321428571.png
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\b620910d9423fc560d6d1e353ebd786c_451x221.47321428571.png
+Content Type: image/png
+
+Uri: https://effdoors.com/gallery_gen/b620910d9423fc560d6d1e353ebd786c_451x229.32203389831.png
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\b620910d9423fc560d6d1e353ebd786c_451x229.32203389831-1.png
+Content Type: image/png
+
+Uri: https://effdoors.com/js/big.min.js
+File Name: C:\Downloaded Web Sites\effdoors.com\js\big.min.js
+Content Type: application/javascript
+
+Uri: https://effdoors.com/js/wb_require.js
+File Name: C:\Downloaded Web Sites\effdoors.com\js\wb_require.js
+Content Type: application/javascript
+
+Uri: https://effdoors.com/js/angular.min.js
+File Name: C:\Downloaded Web Sites\effdoors.com\js\angular.min.js
+Content Type: application/javascript
+
+Uri: https://effdoors.com/js/bundle.js
+File Name: C:\Downloaded Web Sites\effdoors.com\js\bundle.js
+Content Type: application/javascript
+
+Uri: https://effdoors.com/gallery_gen/2e13ea8b4e2471b4e44473d45fa438bb_300x192.98780487805.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\2e13ea8b4e2471b4e44473d45fa438bb_300x192.98780487805-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/e4cf71af8dd9ff71c57c04f91a849450_912x384.png
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\e4cf71af8dd9ff71c57c04f91a849450_912x384-1.png
+Content Type: image/png
+
+Uri: https://effdoors.com/gallery_gen/6206a9dcc5adf983979dec71f920b2b3_439x557.56204379562.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\6206a9dcc5adf983979dec71f920b2b3_439x557.56204379562-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/3dd2cf486777b95b8a21f58ac984dc72_717x904.04347826087.png
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\3dd2cf486777b95b8a21f58ac984dc72_717x904.04347826087-1.png
+Content Type: image/png
+
+Uri: https://effdoors.com/gallery_gen/fca3fd5bb17240d411c78929a9a59d2f_1154x868.79714285714.png
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\fca3fd5bb17240d411c78929a9a59d2f_1154x868.79714285714-1.png
+Content Type: image/png
+
+Uri: https://effdoors.com/gallery_gen/7403149eaf4345734fd1b9305ef5005b_anim.gif
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\7403149eaf4345734fd1b9305ef5005b_anim-1.gif
+Content Type: image/gif
+
+Uri: https://effdoors.com/gallery_gen/59a23678811865acf062f0a077bf1bdd_330x207.23214285714.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\59a23678811865acf062f0a077bf1bdd_330x207.23214285714-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/48fde56d432d32182d05cc5c516c3626_330x207.23214285714.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\48fde56d432d32182d05cc5c516c3626_330x207.23214285714-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/c2a4792cddd25f8053057ef07156c70b_647x965.36507936508.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\c2a4792cddd25f8053057ef07156c70b_647x965.36507936508-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\effdoors.com\fonts\glyphicons-halflings-regular-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://effdoors.com/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\effdoors.com\fonts\glyphicons-halflings-regular-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://effdoors.com/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\effdoors.com\fonts\glyphicons-halflings-regular-1.woff2
+Content Type: font/woff2
+
+Uri: https://effdoors.com/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\effdoors.com\fonts\glyphicons-halflings-regular-1.woff
+Content Type: font/woff
+
+Uri: https://effdoors.com/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\effdoors.com\fonts\glyphicons-halflings-regular-1.ttf
+Content Type: font/ttf
+
+Uri: https://effdoors.com/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\effdoors.com\fonts\glyphicons-halflings-regular-1.svg
+Content Type: image/svg+xml
+
+Uri: https://effdoors.com/css/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\effdoors.com\css\fonts\fontawesome-webfont-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://effdoors.com/css/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\effdoors.com\css\fonts\fontawesome-webfont-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://effdoors.com/css/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\effdoors.com\css\fonts\fontawesome-webfont-1.woff2
+Content Type: font/woff2
+
+Uri: https://effdoors.com/css/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\effdoors.com\css\fonts\fontawesome-webfont-1.woff
+Content Type: font/woff
+
+Uri: https://effdoors.com/css/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\effdoors.com\css\fonts\fontawesome-webfont-1.ttf
+Content Type: font/ttf
+
+Uri: https://effdoors.com/css/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\effdoors.com\css\fonts\fontawesome-webfont-1.svg
+Content Type: image/svg+xml
+
+Uri: https://effdoors.com/css/fonts/Capture it.ttf
+File Name: C:\Downloaded Web Sites\effdoors.com\css\fonts\Capture it-1.ttf
+Content Type: font/ttf
+
+Uri: https://effdoors.com/css/fonts/BYekan.eot
+File Name: C:\Downloaded Web Sites\effdoors.com\css\fonts\BYekan-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://effdoors.com/css/fonts/BYekan.ttf
+File Name: C:\Downloaded Web Sites\effdoors.com\css\fonts\BYekan-1.ttf
+Content Type: font/ttf
+
+Uri: https://effdoors.com/css/fonts/BYekan.woff
+File Name: C:\Downloaded Web Sites\effdoors.com\css\fonts\BYekan-1.woff
+Content Type: font/woff
+
+Uri: https://effdoors.com/css/fonts/Vazir.eot
+File Name: C:\Downloaded Web Sites\effdoors.com\css\fonts\Vazir-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://effdoors.com/css/fonts/Vazir.ttf
+File Name: C:\Downloaded Web Sites\effdoors.com\css\fonts\Vazir-1.ttf
+Content Type: font/ttf
+
+Uri: https://effdoors.com/css/fonts/Vazir.woff
+File Name: C:\Downloaded Web Sites\effdoors.com\css\fonts\Vazir-1.woff
+Content Type: font/woff
+
+Uri: https://effdoors.com/css/fonts/Vazir.woff2
+File Name: C:\Downloaded Web Sites\effdoors.com\css\fonts\Vazir-1.woff2
+Content Type: font/woff2
+
+Uri: https://effdoors.com/css/fonts/Nahid.eot
+File Name: C:\Downloaded Web Sites\effdoors.com\css\fonts\Nahid-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://effdoors.com/css/fonts/Nahid.ttf
+File Name: C:\Downloaded Web Sites\effdoors.com\css\fonts\Nahid-1.ttf
+Content Type: font/ttf
+
+Uri: https://effdoors.com/css/fonts/Nahid.woff
+File Name: C:\Downloaded Web Sites\effdoors.com\css\fonts\Nahid-1.woff
+Content Type: font/woff
+
+Uri: https://effdoors.com/css/fonts/Nahid.woff2
+File Name: C:\Downloaded Web Sites\effdoors.com\css\fonts\Nahid-1.woff2
+Content Type: font/woff2
+
+Uri: https://effdoors.com/css/fonts/AtlanticCruise.eot
+File Name: C:\Downloaded Web Sites\effdoors.com\css\fonts\AtlanticCruise-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://effdoors.com/css/fonts/AtlanticCruise.woff
+File Name: C:\Downloaded Web Sites\effdoors.com\css\fonts\AtlanticCruise-1.woff
+Content Type: font/woff
+
+Uri: https://effdoors.com/css/fonts/AtlanticCruise.woff2
+File Name: C:\Downloaded Web Sites\effdoors.com\css\fonts\AtlanticCruise-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/ea/nanumgothic/v5/NanumGothic-Regular.eot
+File Name: C:\Downloaded Web Sites\effdoors.com\ea\nanumgothic\v5\NanumGothic-Regular-2.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/nanumgothic/v5/NanumGothic-Regular.eot?
+File Name: C:\Downloaded Web Sites\effdoors.com\ea\nanumgothic\v5\NanumGothic-Regular-3.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/nanumgothic/v5/NanumGothic-Regular.woff2
+File Name: C:\Downloaded Web Sites\effdoors.com\ea\nanumgothic\v5\NanumGothic-Regular-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/ea/nanumgothic/v5/NanumGothic-Regular.woff
+File Name: C:\Downloaded Web Sites\effdoors.com\ea\nanumgothic\v5\NanumGothic-Regular-1.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/ea/nanumgothic/v5/NanumGothic-Regular.ttf
+File Name: C:\Downloaded Web Sites\effdoors.com\ea\nanumgothic\v5\NanumGothic-Regular-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/ea/nanumgothic/v5/NanumGothic-Bold.eot
+File Name: C:\Downloaded Web Sites\effdoors.com\ea\nanumgothic\v5\NanumGothic-Bold-2.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/nanumgothic/v5/NanumGothic-Bold.eot?
+File Name: C:\Downloaded Web Sites\effdoors.com\ea\nanumgothic\v5\NanumGothic-Bold-3.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/nanumgothic/v5/NanumGothic-Bold.woff2
+File Name: C:\Downloaded Web Sites\effdoors.com\ea\nanumgothic\v5\NanumGothic-Bold-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/ea/nanumgothic/v5/NanumGothic-Bold.woff
+File Name: C:\Downloaded Web Sites\effdoors.com\ea\nanumgothic\v5\NanumGothic-Bold-1.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/ea/nanumgothic/v5/NanumGothic-Bold.ttf
+File Name: C:\Downloaded Web Sites\effdoors.com\ea\nanumgothic\v5\NanumGothic-Bold-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/ea/nanumgothic/v5/NanumGothic-ExtraBold.eot
+File Name: C:\Downloaded Web Sites\effdoors.com\ea\nanumgothic\v5\NanumGothic-ExtraBold-2.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/nanumgothic/v5/NanumGothic-ExtraBold.eot?
+File Name: C:\Downloaded Web Sites\effdoors.com\ea\nanumgothic\v5\NanumGothic-ExtraBold-3.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/nanumgothic/v5/NanumGothic-ExtraBold.woff2
+File Name: C:\Downloaded Web Sites\effdoors.com\ea\nanumgothic\v5\NanumGothic-ExtraBold-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/ea/nanumgothic/v5/NanumGothic-ExtraBold.woff
+File Name: C:\Downloaded Web Sites\effdoors.com\ea\nanumgothic\v5\NanumGothic-ExtraBold-1.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/ea/nanumgothic/v5/NanumGothic-ExtraBold.ttf
+File Name: C:\Downloaded Web Sites\effdoors.com\ea\nanumgothic\v5\NanumGothic-ExtraBold-1.ttf
+Content Type: font/ttf
+
+Uri: https://effdoors.com/css/fonts/avenirltstd-light.otf
+File Name: C:\Downloaded Web Sites\effdoors.com\css\fonts\avenirltstd-light-1.otf
+Content Type: font/otf
+
+Uri: https://fonts.googleapis.com/css?family=Exo 2:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=cyrillic,cyrillic-ext,latin,latin-ext,vietnamese
+File Name: C:\Downloaded Web Sites\effdoors.com\css-14.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open Sans:300,300i,400,400i,600,600i,700,700i,800,800i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese
+File Name: C:\Downloaded Web Sites\effdoors.com\css-15.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open Sans Condensed:300,300i,700&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese
+File Name: C:\Downloaded Web Sites\effdoors.com\css-16.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=PT Sans:400,400i,700,700i&subset=cyrillic,cyrillic-ext,latin,latin-ext
+File Name: C:\Downloaded Web Sites\effdoors.com\css-17.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=PT Sans Caption:400,700&subset=cyrillic,cyrillic-ext,latin,latin-ext
+File Name: C:\Downloaded Web Sites\effdoors.com\css-18.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=PT Sans Narrow:400,700&subset=cyrillic,cyrillic-ext,latin,latin-ext
+File Name: C:\Downloaded Web Sites\effdoors.com\css-19.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese
+File Name: C:\Downloaded Web Sites\effdoors.com\css-20.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto Condensed:300,300i,400,400i,700,700i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese
+File Name: C:\Downloaded Web Sites\effdoors.com\css-21.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto Slab:100,200,300,400,500,600,700,800,900&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese
+File Name: C:\Downloaded Web Sites\effdoors.com\css-22.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Fugaz One:400&subset=latin
+File Name: C:\Downloaded Web Sites\effdoors.com\css-23.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Vidaloka:400&subset=latin
+File Name: C:\Downloaded Web Sites\effdoors.com\css-24.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Cormorant Garamond:300,300i,400,400i,500,500i,600,600i,700,700i&subset=cyrillic,cyrillic-ext,latin,latin-ext,vietnamese
+File Name: C:\Downloaded Web Sites\effdoors.com\css-25.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=devanagari,latin,latin-ext
+File Name: C:\Downloaded Web Sites\effdoors.com\css-26.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Josefin Sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i&subset=latin,latin-ext,vietnamese
+File Name: C:\Downloaded Web Sites\effdoors.com\css-27.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Work Sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin,latin-ext,vietnamese
+File Name: C:\Downloaded Web Sites\effdoors.com\css-28.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Comfortaa:300,400,500,600,700&subset=cyrillic,cyrillic-ext,greek,latin,latin-ext,vietnamese
+File Name: C:\Downloaded Web Sites\effdoors.com\css-29.css
+Content Type: text/css
+
+Uri: https://effdoors.com/gallery_gen/cfad952ac66a04c4fd0e49194b757045.png
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\cfad952ac66a04c4fd0e49194b757045-1.png
+Content Type: image/png
+
+Uri: https://effdoors.com/gallery_gen/2210bce894cb6e7c00bae76057a5b088.png
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\2210bce894cb6e7c00bae76057a5b088-1.png
+Content Type: image/png
+
+Uri: https://effdoors.com/gallery_gen/a392505284a65f21660d3ac3d920fdc6.png
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\a392505284a65f21660d3ac3d920fdc6-1.png
+Content Type: image/png
+
+Uri: https://effdoors.com/gallery_gen/65b2ea691340ff3ec6829eea5cc234e9.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\65b2ea691340ff3ec6829eea5cc234e9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/10a0ad9e29cb8148daeeada18325b5c3.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\10a0ad9e29cb8148daeeada18325b5c3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/2d4f3ee02be1624df15061c176ff4a06.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\2d4f3ee02be1624df15061c176ff4a06-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/307b31c41410028cac98d60bfdd2752f.svg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\307b31c41410028cac98d60bfdd2752f.svg
+Content Type: image/svg+xml
+
+Uri: https://effdoors.com/gallery_gen/66b08f86105bb13ea33299dcbffc5750.svg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\66b08f86105bb13ea33299dcbffc5750.svg
+Content Type: image/svg+xml
+
+Uri: https://effdoors.com/js/photoswipe/default-skin/default-skin.png
+File Name: C:\Downloaded Web Sites\effdoors.com\js\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: https://effdoors.com/js/photoswipe/default-skin/default-skin.svg
+File Name: C:\Downloaded Web Sites\effdoors.com\js\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://effdoors.com/js/photoswipe/default-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\effdoors.com\js\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://effdoors.com/css/common.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\common-4.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/15.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\15-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/20.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\20-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/РУЧКИ-НА-КРУГЛІЙ-РОЗЕТЦІ/
+File Name: C:\Downloaded Web Sites\effdoors.com\РУЧКИ-НА-КРУГЛІЙ-РОЗЕТЦІ\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/COLOMBO/
+File Name: C:\Downloaded Web Sites\effdoors.com\COLOMBO\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/Linea-Cali/
+File Name: C:\Downloaded Web Sites\effdoors.com\Linea-Cali\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/ILAVIO/
+File Name: C:\Downloaded Web Sites\effdoors.com\ILAVIO\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/Metal-Bud/
+File Name: C:\Downloaded Web Sites\effdoors.com\Metal-Bud\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/OROORO/
+File Name: C:\Downloaded Web Sites\effdoors.com\OROORO\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/FORME/
+File Name: C:\Downloaded Web Sites\effdoors.com\FORME\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/CONVEX/
+File Name: C:\Downloaded Web Sites\effdoors.com\CONVEX\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/DND/
+File Name: C:\Downloaded Web Sites\effdoors.com\DND\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/TUPAI/
+File Name: C:\Downloaded Web Sites\effdoors.com\TUPAI\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/JNF/
+File Name: C:\Downloaded Web Sites\effdoors.com\JNF\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/REGUITTI/
+File Name: C:\Downloaded Web Sites\effdoors.com\REGUITTI\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/SYSTEM/
+File Name: C:\Downloaded Web Sites\effdoors.com\SYSTEM\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/РУЧКИ-НА-КВАДРАТНІЙ-РОЗЕТЦІ/
+File Name: C:\Downloaded Web Sites\effdoors.com\РУЧКИ-НА-КВАДРАТНІЙ-РОЗЕТЦІ\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/COLOMBO-1/
+File Name: C:\Downloaded Web Sites\effdoors.com\COLOMBO-1\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/Linea-Cali-1/
+File Name: C:\Downloaded Web Sites\effdoors.com\Linea-Cali-1\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/ILAVIO-1/
+File Name: C:\Downloaded Web Sites\effdoors.com\ILAVIO-1\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/Metal-Bud-1/
+File Name: C:\Downloaded Web Sites\effdoors.com\Metal-Bud-1\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/OROORO-1/
+File Name: C:\Downloaded Web Sites\effdoors.com\OROORO-1\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/FORME-1/
+File Name: C:\Downloaded Web Sites\effdoors.com\FORME-1\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/CONVEX-1/
+File Name: C:\Downloaded Web Sites\effdoors.com\CONVEX-1\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/DND-1/
+File Name: C:\Downloaded Web Sites\effdoors.com\DND-1\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/TUPAI-1/
+File Name: C:\Downloaded Web Sites\effdoors.com\TUPAI-1\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/JNF-1/
+File Name: C:\Downloaded Web Sites\effdoors.com\JNF-1\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/REGUITTI-1/
+File Name: C:\Downloaded Web Sites\effdoors.com\REGUITTI-1\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/SYSTEM-1/
+File Name: C:\Downloaded Web Sites\effdoors.com\SYSTEM-1\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/РУЧКИ-ДЛЯ-РОЗСУВНИХ-ДВЕРЕЙ/
+File Name: C:\Downloaded Web Sites\effdoors.com\РУЧКИ-ДЛЯ-РОЗСУВНИХ-ДВЕРЕЙ\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/РУЧКИ-КНОБИ/
+File Name: C:\Downloaded Web Sites\effdoors.com\РУЧКИ-КНОБИ\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/АКСЕСУАРИ/
+File Name: C:\Downloaded Web Sites\effdoors.com\АКСЕСУАРИ\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/gallery_gen/6206a9dcc5adf983979dec71f920b2b3_439x473.44461538462.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\6206a9dcc5adf983979dec71f920b2b3_439x473.44461538462-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/3dd2cf486777b95b8a21f58ac984dc72_717x772.15384615385.png
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\3dd2cf486777b95b8a21f58ac984dc72_717x772.15384615385-1.png
+Content Type: image/png
+
+Uri: https://effdoors.com/css/2.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\2-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/gallery_gen/93b7d2ad47966109d8b44fcc43528083_550x628.57142857143.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\93b7d2ad47966109d8b44fcc43528083_550x628.57142857143-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/9b1b98f1585804507c0b95d11cfb9e3a_800x914.28571428571.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\9b1b98f1585804507c0b95d11cfb9e3a_800x914.28571428571-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/f7dc989b435f3322780a9a9f45ca192e_1000x1142.8571428571.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\f7dc989b435f3322780a9a9f45ca192e_1000x1142.8571428571-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/d6489c151b641c5a0e7864ec8c15f28f_530x605.71428571429.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\d6489c151b641c5a0e7864ec8c15f28f_530x605.71428571429-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/477a198852e2a2acbb3ca430420efebe_1500x1714.2857142857.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\477a198852e2a2acbb3ca430420efebe_1500x1714.2857142857-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/82c8d11f65813606ade4276b6830275e_448x512.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\82c8d11f65813606ade4276b6830275e_448x512-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/00c5c7eae1ec3cb7980e0c6bb46ccabf_1200x1371.4285714286.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\00c5c7eae1ec3cb7980e0c6bb46ccabf_1200x1371.4285714286-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/9f5656d838bc99bc262f71b959834866_499x570.28571428571.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\9f5656d838bc99bc262f71b959834866_499x570.28571428571-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/8380bc0b68f1c1e1c25339e39ddc03f2_1680x1920.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\8380bc0b68f1c1e1c25339e39ddc03f2_1680x1920-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/17ab5b1c1f5918b94fcc16656617fd91_1680x1920.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\17ab5b1c1f5918b94fcc16656617fd91_1680x1920-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/463b78e677b5dd9ec65f5ec57e54fc61_700x330.75.png
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\463b78e677b5dd9ec65f5ec57e54fc61_700x330.75-1.png
+Content Type: image/png
+
+Uri: https://effdoors.com/css/36.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\36-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/Щитове-полотно-Двері-грунтовані-під-фарбування/
+File Name: C:\Downloaded Web Sites\effdoors.com\Щитове-полотно-Двері-грунтовані-під-фарбування\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/gallery_gen/a6def160eb6cc8904d8a07dead4ff07d_549x610.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\a6def160eb6cc8904d8a07dead4ff07d_549x610.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/4f90c942444c55699e5eba5da5371929_1080x1312.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\4f90c942444c55699e5eba5da5371929_1080x1312.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/f3c77d045a5e8552f3480cdeb3733bec_454x896.54490740741.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\f3c77d045a5e8552f3480cdeb3733bec_454x896.54490740741.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/css/6.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\6-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/10.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\10-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/8.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\8-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/11.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\11-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/12.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\12-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/13.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\13-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/5.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\5-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/gallery_gen/93b7d2ad47966109d8b44fcc43528083_550x620.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\93b7d2ad47966109d8b44fcc43528083_550x620-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/9b1b98f1585804507c0b95d11cfb9e3a_800x901.81818181818.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\9b1b98f1585804507c0b95d11cfb9e3a_800x901.81818181818-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/f7dc989b435f3322780a9a9f45ca192e_1000x1127.2727272727.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\f7dc989b435f3322780a9a9f45ca192e_1000x1127.2727272727-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/d6489c151b641c5a0e7864ec8c15f28f_530x597.45454545455.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\d6489c151b641c5a0e7864ec8c15f28f_530x597.45454545455-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/477a198852e2a2acbb3ca430420efebe_1500x1690.9090909091.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\477a198852e2a2acbb3ca430420efebe_1500x1690.9090909091-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/82c8d11f65813606ade4276b6830275e_448x505.01818181818.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\82c8d11f65813606ade4276b6830275e_448x505.01818181818-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/00c5c7eae1ec3cb7980e0c6bb46ccabf_1200x1207.5.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\00c5c7eae1ec3cb7980e0c6bb46ccabf_1200x1207.5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/9f5656d838bc99bc262f71b959834866_499x653.23636363636.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\9f5656d838bc99bc262f71b959834866_499x653.23636363636-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/8380bc0b68f1c1e1c25339e39ddc03f2_1800x1811.25.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\8380bc0b68f1c1e1c25339e39ddc03f2_1800x1811.25-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/17ab5b1c1f5918b94fcc16656617fd91_2200x2880.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\17ab5b1c1f5918b94fcc16656617fd91_2200x2880-1.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/css/37.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\37-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/38.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\38-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/7.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\7-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/gallery_gen/88aec21d4ae8f67837bf818f999f20ba_1024x1170.2857142857.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\88aec21d4ae8f67837bf818f999f20ba_1024x1170.2857142857.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/c851ab52cfef0b45beecfc86a2d4e16c_600x685.71428571429.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\c851ab52cfef0b45beecfc86a2d4e16c_600x685.71428571429.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/a9a8270528c430f9923e9c58429e813f_953x1089.1428571429.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\a9a8270528c430f9923e9c58429e813f_953x1089.1428571429.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/aef6468febffc627245ea3bf330261d8_500x571.42857142857.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\aef6468febffc627245ea3bf330261d8_500x571.42857142857.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/4e04f36a8c8f9632d83d4203b10eccc6_831x949.71428571429.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\4e04f36a8c8f9632d83d4203b10eccc6_831x949.71428571429.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/7bb2d049c3ddf8b123815db8f9598210_573x327.42857142857.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\7bb2d049c3ddf8b123815db8f9598210_573x327.42857142857.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/5f661f8362cf4d47a33187ce8889ddd3_356x203.42857142857.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\5f661f8362cf4d47a33187ce8889ddd3_356x203.42857142857.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/bd2964c9c4ec194ebf98ae84db58645b_1000x1142.8571428571.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\bd2964c9c4ec194ebf98ae84db58645b_1000x1142.8571428571.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/69fdcf07f413f29fe9f76a9f6874edf9_800x914.28571428571.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\69fdcf07f413f29fe9f76a9f6874edf9_800x914.28571428571.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/css/24.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\24-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/gallery_gen/cc7a49f5eb76e777b0cbbd2dfeff06e1_1128x584.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\cc7a49f5eb76e777b0cbbd2dfeff06e1_1128x584.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/c2170303d6db4a6cd2420e29c15565c1_1136x548.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\c2170303d6db4a6cd2420e29c15565c1_1136x548.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/3bd6f6dc05f34afbb481aeaa7594aa7d_280x113.15634218289.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\3bd6f6dc05f34afbb481aeaa7594aa7d_280x113.15634218289.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/56233c7b09bfd632a121f23bf68cea3d_508x248.55714285714.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\56233c7b09bfd632a121f23bf68cea3d_508x248.55714285714.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/b50c22ada986e75a4ac6b795342c1c7f_1120x548.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\b50c22ada986e75a4ac6b795342c1c7f_1120x548.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/css/25.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\25-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/26.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\26-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/31.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\31-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/27.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\27-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/28.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\28-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/29.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\29-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/30.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\30-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/9.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\9-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/14.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\14-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/common.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\common-5.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/57.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\57-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/gallery_gen/af72a92602bc9af45044166e0dace4f9_1440x1120.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\af72a92602bc9af45044166e0dace4f9_1440x1120.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/af72a92602bc9af45044166e0dace4f9_1428x1104.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\af72a92602bc9af45044166e0dace4f9_1428x1104.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/css/39.css?ts=1633894000
+File Name: C:\Downloaded Web Sites\effdoors.com\css\39-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/58.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\58-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/17.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\17-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/gallery_gen/71cb517233e04e8dff48302b4e51686d_328x152.52.png
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\71cb517233e04e8dff48302b4e51686d_328x152.52.png
+Content Type: image/png
+
+Uri: https://effdoors.com/gallery_gen/7238767fa2295c936706a57cc610191a_411x131.80344827586.png
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\7238767fa2295c936706a57cc610191a_411x131.80344827586.png
+Content Type: image/png
+
+Uri: https://effdoors.com/gallery_gen/78b470369709ca625bcb286c212ca092_264x122.76.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\78b470369709ca625bcb286c212ca092_264x122.76.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/3bdd10eceab38ba401ac513df56b1019_800x372.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\3bdd10eceab38ba401ac513df56b1019_800x372.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/75a6c86ef2d59bde2e781b434fc6d0a9_360x167.4.png
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\75a6c86ef2d59bde2e781b434fc6d0a9_360x167.4.png
+Content Type: image/png
+
+Uri: https://effdoors.com/gallery_gen/e0ca8c7e7ec5f5b659d0d0600f5b58b2_640x297.6.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\e0ca8c7e7ec5f5b659d0d0600f5b58b2_640x297.6.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/eeaa5d3b5f37badfffbedfad655e3731_512x238.08.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\eeaa5d3b5f37badfffbedfad655e3731_512x238.08.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/6d3c1c94ed271aa3320abff05e00b144_406x188.79.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\6d3c1c94ed271aa3320abff05e00b144_406x188.79.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/47396d221d6d82c08dac913af6d6997e_630x292.95.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\47396d221d6d82c08dac913af6d6997e_630x292.95.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/0234537ab08e18d1f633563b073a736d_494x229.71.png
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\0234537ab08e18d1f633563b073a736d_494x229.71.png
+Content Type: image/png
+
+Uri: https://effdoors.com/gallery_gen/624aebdf4306d79acf98ab9df6cd61a0_500x232.5.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\624aebdf4306d79acf98ab9df6cd61a0_500x232.5.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/gallery_gen/0590ba5593132cf75ae8ee4b6d022d0d_800x372.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\0590ba5593132cf75ae8ee4b6d022d0d_800x372.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/css/43.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\43-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/Colombo-Olly-LC-61-античная-латунь/
+File Name: C:\Downloaded Web Sites\effdoors.com\Colombo-Olly-LC-61-античная-латунь\index.htm
+Content Type: text/html
+
+Uri: https://effdoors.com/css/44.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\44-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/45.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\45-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/46.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\46-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/47.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\47-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/48.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\48-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/51.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\51-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/62.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\62.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/63.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\63.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/64.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\64.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/65.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\65.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/66.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\66.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/18.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\18-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/4.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\4-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/19.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\19-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/32.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\32-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/33.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\33-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/34.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\34-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/35.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\35-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/41.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\41-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/49.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\49-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/50.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\50-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/52.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\52-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/53.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\53-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/54.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\54-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/42.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\42-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/55.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\55-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/56.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\56-1.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/59.css?ts=1633894001
+File Name: C:\Downloaded Web Sites\effdoors.com\css\59.css
+Content Type: text/css
+
+Uri: https://effdoors.com/gallery_gen/4f90c942444c55699e5eba5da5371929_1200x1494.1431670282.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\4f90c942444c55699e5eba5da5371929_1200x1494.1431670282.jpg
+Content Type: image/jpeg
+
+Uri: https://effdoors.com/css/common.css?ts=1633894002
+File Name: C:\Downloaded Web Sites\effdoors.com\css\common-6.css
+Content Type: text/css
+
+Uri: https://effdoors.com/css/67.css?ts=1633894002
+File Name: C:\Downloaded Web Sites\effdoors.com\css\67.css
+Content Type: text/css
+
+Uri: https://effdoors.com/gallery_gen/41f3d737337fb0ba8e9c6bbe26d1b98e_896x335.73269689737.jpg
+File Name: C:\Downloaded Web Sites\effdoors.com\gallery_gen\41f3d737337fb0ba8e9c6bbe26d1b98e_896x335.73269689737.jpg
+Content Type: image/jpeg
+
