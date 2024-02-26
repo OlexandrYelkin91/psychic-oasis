@@ -4,20 +4,9 @@ use App\Models\Basket;
 ?>
 <header>
 		<div class="container">
-			<div class="head-top">
-				<a href="{{route ('home')}}" class="logo-block" id="logo-block"></a>
-				<div class="heder-center" id="heder-center">
-						<span class="head-span-top"><img src="@yield  ('style-way')images/2021-11-15_18-01-32-675.png"></span>
-						<span class="head-span-bot">Найбільший вибір прихованих дверей та дверної фурнітури</span>
-				</div>
-			</div>
 			<nav class="hed-menu">
 				 <ul>
-				 	<li
-                     @if (Request::is('/'))
-                        class="active"
-                     @endif >
-                    <a href="{{route ('home')}}">Головна</a></li>
+                    <li><a href="{{route ('home')}}" class="logo-block" id="logo-block"></a></li>
 				 	<li
                       @if (Request::is('production') or Request::is('production/hiddendoor') or Request::is('production/doorfittings'))
                         class="active"
@@ -75,11 +64,6 @@ use App\Models\Basket;
                     class="active"
                      @endif >
                     <a href="{{route('contacts')}}">Контакти</a></li>
-				    <li
-                    @if (Request::is('stock'))
-                    class="active"
-                     @endif >
-                    <a href="{{route('stock')}}">Акції</a></li>
 				    <li
                     @if (Request::is('articles'))
                     class="active"
