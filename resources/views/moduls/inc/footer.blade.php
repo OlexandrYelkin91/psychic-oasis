@@ -1,52 +1,61 @@
-   <footer>
-		<div class="container">
-			<div class="footer-left">
-				<nav>
-					<ul>
-						<li><a href="{{route('production')}}">ПРОДУКЦІЯ</a></li>
-						<li><a href="{{route('hiddendoor')}}">ПРИХОВАНІ ДВЕРІ</a></li>
-						<li><a href="{{route('doorfittings')}}">ДВЕРНА ФУРНІТУРА</a></li>
-						<li><a href="{{route('service')}}">СЕРВІС</a></li>
-						<li><a href="{{route('aboutus')}}">ПРО НАС</a></li>
-						<li><a href="{{route('contacts')}}">КОНТАКТИ</a></li>
-						<li><a href="{{route('articles')}}">СТАТТІ</a></li>
-					</ul>
-				</nav>
-			</div>
-			<div class="footer-center">
-				<nav>
-					<ul>
-						<li><a href="{{route ('link-two_pages',['hidendoors', 'primerunderpointer'])}}">ПІД ФАРБУВАННЯ</a></li>
-						<li><a href="{{route ('link-two_pages',['hidendoors', 'underpriming'])}}">ПІД ШТУКАТУРКУ</a></li>
-						<li><a href="{{route ('link-two_pages',['hidendoors', 'veneered'])}}">ШПОНОВАНІ</a></li>
-						 <li><a href="{{route ('link-two_pages',['hidendoors', 'withamirror'])}}">ІЗ ДЗЕРКАЛОМ</a></li>
-					     <li><a href="{{route ('link-two_pages',['hidendoors', 'withglass'])}}">ЗІ СКЛОМ</a></li>
-					     <li><a href="{{route ('link-two_pages',['hidendoors', 'withhplpanel'])}}">З HPL ПАНЕЛЯМИ</a></li>
-					     <li><a href="{{route ('link-two_pages',['hidendoors', 'wirhceramicgranitecoating'])}}">ІЗ КЕРАМОГРАНІТУ</a></li>
-					     <li><a href="{{route ('link-two_pages',['hidendoors', 'undertheceling'])}}">ПІД СТЕЛЮ</a></li>
-					     <li><a href="{{route ('link-two_pages',['hidendoors', 'aluminiumend'])}}">З AL-ТОРЦЕМ</a></li>
-					     <li><a href="{{route ('link-two_pages',['hidendoors', 'designerdoors'])}}">ДИЗАЙНЕРСЬКІ ДВЕРІ</a></li>
-					</ul>
-				</nav>
-			</div>
-			<div class="footer-right">
-				<a href="{{route('home')}}" class="logo-block"></a>
-				<div class="footer-contackt-block">
-					<p><a href="{{route('contacts')}}">Контакти</a></p>
-					<p>
-						+38 (068) 086 79 02
-						<br>
-						+38 (097) 056 70 86
-					</p>
-					<p>
-						effdoors@gmail.com
-					</p>
-					<div class="sicial-block">
-						<a target="_blank" href="https://www.facebook.com/Effect-DOORS-104884212006791/" class="facebook"></a>
-						<a target="_blank" href="#" class="telegram"></a>
-					</div>
-					<p class="copy">&copy; Effect-DOORS 2021-2022</p>
-				</div>
-			</div>
-		</div>
-	</footer>
+<footer class="site-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <h2 class="footer-heading mb-4">Про студію</h2>
+            <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+          </div>
+          <div class="col-md-3 ml-auto">
+            <h2 class="footer-heading mb-4">Quick Links</h2>
+            <ul class="list-unstyled">
+                <li><a href="#" class="smoothscroll">Найближчі події</a></li>
+                <li><a href="#" class="smoothscroll">Послуги</a></li>
+                <li><a href="#" class="smoothscroll">Онлайн консультатція</a></li>
+                <li><a href="#" class="smoothscroll">Консультація спеціаліста</a></li>
+                <li><a href="#" class="smoothscroll">Спеціалісти</a></li>
+                <li><a href="#" class="smoothscroll">Програми</a></li>
+                <li><a href="#" class="smoothscroll">Для дітей</a></li>
+                <li><a href="#" class="smoothscroll">психологія</a></li>
+                <li><a href="#" class="smoothscroll">шкільне середовище</a></li>
+                <li><a href="#" class="smoothscroll">Skills</a></li>               
+                <li><a href="#" class="smoothscroll">Для жінок</a></li>
+                <li><a href="#" class="smoothscroll">психологія</a></li>
+                <li><a href="#" class="smoothscroll">кар&apos;єра</a></li>
+                <li><a href="#" class="smoothscroll">ресурсність</a></li>
+                <li><a href="#" class="smoothscroll">материнство</a></li>
+                <li><a href="#" class="smoothscroll">Вартість</a></li>
+                <li><a href="#" class="smoothscroll">Оазис-SHOP</a></li>
+                <li><a href="#" class="smoothscroll">Блог</a></li>
+                <li><a href="#" class="smoothscroll">Контакти</a></li>
+                <li><a href="#" class="smoothscroll">Корзина</a></li>
+                <li><a href="#" class="smoothscroll">Звʼязатись</a></li>
+              </ul>
+            </nav>
+            </ul>
+          </div>
+          <div class="col-md-4">
+            <div class="mb-5">
+              <a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
+              <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
+              <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
+              <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
+            </div>
+          </div>
+        </div>
+        <div class="row pt-5 mt-5 text-left">
+          <div class="col-md-12">
+            <div class="border-top pt-5">
+              <p class="copyright">
+              <small>
+                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
+                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+               </small>
+            </p>
+            </div>
+          </div>
+          
+        </div>
+
+      </div>
+    </footer>
