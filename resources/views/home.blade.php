@@ -1,97 +1,5 @@
-<!doctype html>
-<html lang="ukr">
-  <head>
-    <title>Оазис психіки</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700, 900|Playfair+Display:400,900" rel="stylesheet">
-    <link rel="stylesheet" href="fonts/icomoon/style.css">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/jquery-ui.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="css/jquery.fancybox.min.css">
-    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
-    <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
-    <link rel="stylesheet" href="css/aos.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="shortcut icon" href="@yield  ('style-way')./../images/favicon.ico" type="image/x-icon">
-  </head>
-  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300" id="home-section">
-  <div id="overlayer"></div>
-  <div class="loader">
-    <div class="spinner-border text-primary" role="status">
-      <span class="sr-only">Завантаження...</span>
-    </div>
-  </div>
-  <div class="site-wrap">
-    <div class="site-mobile-menu site-navbar-target">
-      <div class="site-mobile-menu-header">
-        <div class="site-mobile-menu-close mt-3">
-          <span class="icon-close2 js-menu-toggle"></span>
-        </div>
-      </div>
-      <div class="site-mobile-menu-body"></div>
-    </div>
-    <header class="site-navbar js-sticky-header site-navbar-target" role="banner" >
-      <div class="container">
-        <div class="row align-items-center">
-          <div class="col-6 col-xl-2">
-            <h1 class="mb-0 site-logo"><a href="index.html" class="h2 mb-0">Coach<span class="text-primary">.</span> </a></h1>
-          </div>
-          <div class="col-12 col-md-10 d-none d-xl-block">
-            <nav class="site-navigation position-relative text-right" role="navigation">
-              <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-                <li><a href="#home-section" class="nav-link">Про студію</a></li>
-                <li><a href="#" class="nav-link">Найближчі події</a></li>
-                <li class="has-children">
-                    <a href="#services-section" class="nav-link">Послуги</a>
-                    <ul class="dropdown">
-                        <li><a href="#">Онлайн консультатція</a></li>
-                        <li><a href="#">Консультація спеціаліста</a></li>
-                      </ul>
-                </li>
-                <li><a href="#training-section" class="nav-link">Спеціалісти</a></li>
-                <li class="has-children">
-                    <a href="#" class="nav-link">Програми</a>
-                    <ul class="dropdown">
-                        <li class="has-children">
-                            <a href="#">Для дітей</a>
-                            <ul class="dropdown">
-                                <li><a href="#">психологія</a></li>
-                                <li><a href="#">шкільне середовище</a></li>
-                                <li><a href="#">Skills</a></li>
-                            </ul>
-                        </li>
-                        <li class="has-children">
-                            <a href="#">Для жінок</a>
-                             <ul class="dropdown">
-                                <li><a href="#">психологія</a></li>
-                                <li><a href="#">кар&apos;єра</a></li>
-                                <li><a href="#">ресурсність</a></li>
-                                <li><a href="#">материнство</a></li>
-                            </ul>
-                        </li>
-                      </ul>
-                </li>
-                <li><a href="#" class="nav-link">Вартість</a></li>
-                <li><a href="#" class="nav-link">Оазис-SHOP</a></li>
-                <li><a href="#blog-section" class="nav-link">Блог</a></li>
-                <li><a href="#contact-section" class="nav-link">Контакти</a></li>
-                <li><a href="#" class="nav-link">Корзина</a></li>
-                 <li><a href="#" class="nav-link">Звʼязатись</a></li>
-              </ul>
-            </nav>
-          </div>
-          <div class="col-6 d-inline-block d-xl-none ml-md-0 py-3" style="position: relative; top: 3px;">
-            <a href="#" class="site-menu-toggle js-menu-toggle float-right">
-                <span class="icon-menu h3"></span>
-            </a>
-          </div>
-        </div>
-      </div>
-    </header>
+@extends ('moduls.app')
+@section ('content')
     <section class="site-blocks-cover overflow-hidden">
       <div class="container">
         <div class="row">
@@ -99,7 +7,7 @@
 
             <div class="row">
               <div class="col-lg-11">
-                <h1>Психологічна студія для <span class="typed-words"></span></h1>
+                <h1>Психологічна студія <span class="typed-words"></span></h1>
                 <!--<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum modiblanditiis error. <a href="#">Contact us</a></p>-->
               </div>
             </div>
@@ -463,14 +371,10 @@
       <div class="container">
         <div class="row">
           <div class="col-12 text-center mb-5">
-            <h2 class="text-black">Contact Us</h2>
+            <h2 class="text-black">Зв'язатись з нами</h2>
           </div>
         </div>
         <div class="row mb-5">
-          <div class="mb-4 mb-lg-0 col-md-6 col-lg-4">
-            <p class="mb-0 font-weight-bold">Address</p>
-            <p class="mb-4">203 Fake St. Mountain View, San Francisco, California, USA
-          </div>
           <div class="mb-4 mb-lg-0 col-md-6 col-lg-4">
             <p class="mb-0 font-weight-bold">Phone</p>
             <p class="mb-4"><a href="#">+1 232 3235 324</a></p>
@@ -479,130 +383,16 @@
             <p class="mb-0 font-weight-bold">Email Address</p>
             <p class="mb-0"><a href="#">youremail@domain.com</a></p>
           </div>
+          <div class="open-qst-box text-center">
+            <p class="topic_title">Залишилися питання?</p>
+            <div class="open-qst-btn-box">
+                <img src="/images/right-direction.svg" alt="icon">
+                <a href="#">написати в телеграм</a>
+                <a href="mailto:oyelkin@gmail.com">написати на е-мейл</a>
+                <img src="images/left-direction.svg" class="hide-on-mob" alt="icon">
+            </div>
         </div>
-        <div class="row">
-          <div class="col-lg-12 mb-5">
-            <form action="#" method="post">
-              <div class="form-group row">
-                <div class="col-md-6 mb-3 mb-md-0">
-                  <input type="text" class="form-control" placeholder="First name">
-                </div>
-                <div class="col-md-6">
-                  <input type="text" class="form-control" placeholder="First name">
-                </div>
-              </div>
-
-              <div class="form-group row">
-                <div class="col-md-12">
-                  <input type="text" class="form-control" placeholder="Email address">
-                </div>
-              </div>
-
-              <div class="form-group row">
-                <div class="col-md-12">
-                  <textarea name="" id="" class="form-control" placeholder="Write your message." cols="30" rows="10"></textarea>
-                </div>
-              </div>
-              <div class="form-group row">
-                <div class="col-md-6 mr-auto">
-                  <input type="submit" class="btn btn-block btn-primary text-white py-2 px-5" value="Send Message">
-                </div>
-              </div>
-            </form>
-          </div>
-          
         </div>
       </div>
     </div>
-    <footer class="site-footer">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-4">
-            <h2 class="footer-heading mb-4">Про студію</h2>
-            <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-          </div>
-          <div class="col-md-3 ml-auto">
-            <h2 class="footer-heading mb-4">Quick Links</h2>
-            <ul class="list-unstyled">
-                <li><a href="#" class="smoothscroll">Найближчі події</a></li>
-                <li><a href="#" class="smoothscroll">Послуги</a></li>
-                <li><a href="#" class="smoothscroll">Онлайн консультатція</a></li>
-                <li><a href="#" class="smoothscroll">Консультація спеціаліста</a></li>
-                <li><a href="#" class="smoothscroll">Спеціалісти</a></li>
-                <li><a href="#" class="smoothscroll">Програми</a></li>
-                <li><a href="#" class="smoothscroll">Для дітей</a></li>
-                <li><a href="#" class="smoothscroll">психологія</a></li>
-                <li><a href="#" class="smoothscroll">шкільне середовище</a></li>
-                <li><a href="#" class="smoothscroll">Skills</a></li>               
-                <li><a href="#" class="smoothscroll">Для жінок</a></li>
-                <li><a href="#" class="smoothscroll">психологія</a></li>
-                <li><a href="#" class="smoothscroll">кар&apos;єра</a></li>
-                <li><a href="#" class="smoothscroll">ресурсність</a></li>
-                <li><a href="#" class="smoothscroll">материнство</a></li>
-                <li><a href="#" class="smoothscroll">Вартість</a></li>
-                <li><a href="#" class="smoothscroll">Оазис-SHOP</a></li>
-                <li><a href="#" class="smoothscroll">Блог</a></li>
-                <li><a href="#" class="smoothscroll">Контакти</a></li>
-                <li><a href="#" class="smoothscroll">Корзина</a></li>
-                <li><a href="#" class="smoothscroll">Звʼязатись</a></li>
-              </ul>
-            </nav>
-            </ul>
-          </div>
-          <div class="col-md-4">
-            <div class="mb-5">
-              <a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
-              <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
-              <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
-              <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
-            </div>
-          </div>
-        </div>
-        <div class="row pt-5 mt-5 text-left">
-          <div class="col-md-12">
-            <div class="border-top pt-5">
-              <p class="copyright">
-              <small>
-                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
-                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-               </small>
-            </p>
-            </div>
-          </div>
-          
-        </div>
-
-      </div>
-    </footer>
-  </div>
-  <!-- .site-wrap -->
-  <script src="js/jquery-3.3.1.min.js"></script>
-  <script src="js/jquery-ui.js"></script>
-  <script src="js/popper.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/owl.carousel.min.js"></script>
-  <script src="js/jquery.countdown.min.js"></script>
-  <script src="js/jquery.easing.1.3.js"></script>
-  <script src="js/aos.js"></script>
-  <script src="js/jquery.fancybox.min.js"></script>
-  <script src="js/jquery.sticky.js"></script>
-  <script src="js/isotope.pkgd.min.js"></script>
-  
-  <script src="js/typed.js"></script>
-            <script>
-            var typed = new Typed('.typed-words', {
-            strings: ["вашого зростання","самопізнання"],
-            typeSpeed: 80,
-            backSpeed: 80,
-            backDelay: 4000,
-            startDelay: 1000,
-            loop: true,
-            showCursor: true
-            });
-            </script>
-  
-  <script src="js/main.js"></script>
-
-  </body>
-</html>
+@endsection

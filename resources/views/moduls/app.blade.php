@@ -1,28 +1,6 @@
-<?
- if(!isset($_SESSION)) 
-    { 
-        session_start(); 
-    } 
-?>
 <!DOCTYPE html>
-<html lang="ukr">
+<html lang="ua">
 <head>
-    <!--<title>@yield ('title-block')</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700, 900|Playfair+Display:400,900" rel="stylesheet">
-    <link rel="stylesheet" href="@yield  ('style-way')fonts/icomoon/style.css">
-    <link rel="stylesheet" href="@yield  ('style-way')css/bootstrap.min.css">
-    <link rel="stylesheet" href="@yield  ('style-way')css/jquery-ui.css">
-    <link rel="stylesheet" href="@yield  ('style-way')css/owl.carousel.min.css">
-    <link rel="stylesheet" href="@yield  ('style-way')css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="@yield  ('style-way')css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="@yield  ('style-way')css/jquery.fancybox.min.css">
-    <link rel="stylesheet" href="@yield  ('style-way')css/bootstrap-datepicker.css">
-    <link rel="stylesheet" href="@yield  ('style-way')fonts/flaticon/font/flaticon.css">
-    <link rel="stylesheet" href="@yield  ('style-way')css/aos.css">
-    <link rel="stylesheet" href="@yield  ('style-way')css/style.css">
-    <link rel="shortcut icon" href="@yield  ('style-way')./../images/favicon.ico" type="image/x-icon">-->
     <title>Оазис психіки</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -58,10 +36,10 @@
     </div>
     @include ('moduls.inc.head')
     	<main>
-		   @include ('moduls.inc.home')
+		   @yield ('content')
         </main>
     @include ('moduls.inc.footer')
-      <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/jquery-3.3.1.min.js"></script>
   <script src="js/jquery-ui.js"></script>
   <script src="js/popper.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
@@ -75,7 +53,7 @@
   <script src="js/typed.js"></script>
   <script>
     var typed = new Typed('.typed-words', {
-    strings: ["вашого зростання","самопізнання"],
+    strings: ["для вашого зростання","для самопізнання"],
     typeSpeed: 80,
     backSpeed: 80,
     backDelay: 4000,
