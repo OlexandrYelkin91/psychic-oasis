@@ -11,10 +11,10 @@
     <section>
         <div class="container">
             <div class="test-for-help">
-                <h3>1: Тест “Де я зараз?” з оцінкою за 5-бальною шкалою</h3>
+                <h3>Тест “Де я зараз?” з оцінкою за 5-бальною шкалою</h3>
                 <form>
                         <fieldset>
-                            <legend>Чи ви почуваєтеся задоволеним/-ою своїм життям?</legend>
+                            <legend>1: Чи ви почуваєтеся задоволеним/-ою своїм життям?</legend>
                             <div>
                                 <input type="radio" id="" name="where" value="5" checked />
                                 <label for="">Так, я повністю задоволений/-а</label>

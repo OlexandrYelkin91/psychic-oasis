@@ -1,12 +1,18 @@
 .test-for-help {
     margin: 20px auto;
-    max-width: 70%;
+}
+.test-for-help h3 {
+    color: #0099ff;
     text-align: center;
 }
-.test-for-help form  div {
-    max-width: 350px;
-    margin: auto;
+.test-for-help legend {
+    font-size: 1.1em;
 }
-.test-for-help form  div label {
-    text-align: left;
+.test-for-help form div {
+    max-width: 300px;
+    margin: 10px 50px;
+}
+form {
+    max-width: 550px;
+    margin: 10px auto;
 }
