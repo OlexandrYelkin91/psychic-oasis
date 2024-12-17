@@ -1,0 +1,14 @@
+;;
+;;	Domain:    psychic-oasis.online
+;; 	Exported:  2024-05-13 14:48:39
+;;
+$ORIGIN psychic-oasis.online
+$TTL 900
+@	IN	A	51.83.223.170
+www	IN	A	51.83.223.170
+*	IN	A	51.83.223.170
+@	IN	MX	0 mx.ukraine.com.ua.
+@	IN	TXT	google-site-verification=sHMooDrFouiNhuAgI6ZkOUn2AWEnvdLv8TCSAIveWo8
+@	IN	AAAA	2001:41d0:602:3baa::
+www	IN	AAAA	2001:41d0:602:3baa::
+*	IN	AAAA	2001:41d0:602:3baa::

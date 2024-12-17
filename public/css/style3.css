@@ -1,0 +1,12 @@
+.test-for-help {
+    margin: 20px auto;
+    max-width: 70%;
+    text-align: center;
+}
+.test-for-help form  div {
+    max-width: 350px;
+    margin: auto;
+}
+.test-for-help form  div label {
+    text-align: left;
+}
